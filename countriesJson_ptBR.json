@@ -106,7 +106,7 @@
 	{"codigo": "380", "fone": "0039", "iso": "IT", "iso3": "ITA", "nome": "Itália", "nomeFormal": "República Italiana"},
 	{"codigo": "388", "fone": "1876", "iso": "JM", "iso3": "JAM", "nome": "Jamaica", "nomeFormal": "Jamaica"},
 	{"codigo": "392", "fone": "0081", "iso": "JP", "iso3": "JPN", "nome": "Japão", "nomeFormal": "Japão"},
-	{"codigo": "400", "fone": "0962", "iso": "JO", "iso3": "JOR", "nome": "Jorndânia", "nomeFormal": "Reino Hachemita da Jordânia"},
+	{"codigo": "400", "fone": "0962", "iso": "JO", "iso3": "JOR", "nome": "Jordânia", "nomeFormal": "Reino Hachemita da Jordânia"},
 	{"codigo": "398", "fone": "0007", "iso": "KZ", "iso3": "KAZ", "nome": "Cazaquistão", "nomeFormal": "República do Cazaquistão"},
 	{"codigo": "404", "fone": "0254", "iso": "KE", "iso3": "KEN", "nome": "Quênia", "nomeFormal": "República do Quênia"},
 	{"codigo": "296", "fone": "0686", "iso": "KI", "iso3": "KIR", "nome": "Kiribati", "nomeFormal": "República do Kiribati"},
